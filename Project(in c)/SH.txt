@@ -1,0 +1,28 @@
+PLAYER			ROLE
+------			----
+
+KS Williamson 		Top-order batsman
+TD Agarwal		Opening batsman
+KK Ahmed		Bowler
+Basil Thampi		Bowler
+RK Bhui			Top-order batsman
+Bipul Sharma		Allrounder
+CR Brathwaite		Allrounder
+S Dhawan		Opening batsman
+SP Goswami 		Wicketkeeper batsman
+AD Hales		Opening batsman
+M Hassan		Bowler
+DJ Hooda		Allrounder
+CJ Jordan		Bowler
+S Kaul			Bowler
+B Kumar			Bowler
+Mohammad Nabi		Allrounder
+T Natarajan		Bowler
+MK Pandey		Top-order batsman
+YK Pathan		Allrounder
+Rashid Khan		Bowler
+Sachin Baby		Batsman
+WP Saha 		Wicketkeeper batsman
+Sandeep Sharma		Bowler
+Shakib Al Hasan		Allrounder
+B Stanlake		Bowler

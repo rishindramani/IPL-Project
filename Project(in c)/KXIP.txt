@@ -1,0 +1,24 @@
+PLAYER			ROLE
+------			----
+
+R Ashwin 		Bowling allrounder
+AD Nath			Middle-order batsman
+MA Agarwal		Batsman
+MJ Dagar		Bowler
+BJ Dwarshuis		Bowler
+AJ Finch		Top-order batsman
+CH Gayle		Allrounder
+Manzoor Dar		Middle-order batsman
+DA Miller		Middle-order batsman
+Mujeeb Ur Rahman	Bowler
+KK Nair			Top-order batsman
+AR Patel		Bowling allrounder
+KL Rahul		Opening batsman
+AS Rajpoot		Bowler
+P Sahu			Allrounder
+MM Sharma		Bowler
+BB Sran			Bowler
+MP Stoinis		Middle-order batsman
+MK Tiwary		Batsman
+AJ Tye			Bowler
+Yuvraj Singh		Middle-order batsman

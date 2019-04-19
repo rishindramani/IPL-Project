@@ -1,0 +1,27 @@
+PLAYER			ROLE
+------			----
+KM Asif			Bowler		
+SW Billings 		Wicketkeeper batsman
+C Bishnoi		Batting allrounder
+DJ Bravo		Allrounder
+DL Chahar		Bowler
+MS Dhoni 		Wicketkeeper batsman
+F du Plessis		Middle-order batsman
+Harbhajan Singh		Bowler
+Imran Tahir		Bowler
+RA Jadeja		Allrounder
+KM Jadhav		Batting allrounder
+N Jagadeesan		Opening batsman
+Kshitiz Sharma		Top-order batsman
+Monu Kumar		Bowling allrounder
+L Ngidi			Bowler
+SK Raina		Middle-order batsman
+AT Rayudu		Middle-order batsman
+MJ Santner		Bowling allrounder
+KK Seth			Bowler
+KV Sharma		Bowler
+DR Shorey		Top-order batsman
+SN Thakur		Bowler
+M Vijay	Opening 	Batsman
+SR Watson		Allrounder
+MA Wood	Bowler		Bowler
