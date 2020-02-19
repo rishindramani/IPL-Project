@@ -1,0 +1,8 @@
+S.No        Team Name              Player name              Runs
+1           KKR                    Sanju Samson 	    178
+2 	    KKR                    Andre Russell            153
+3           Delhi Daredevils       Rishabh Pant             138
+4           Kings XL Punjab        Lokesh Rahul             135
+5           Sunrisers Hyderabad    Shikhar Dhawan           130
+6           KKR			   Nitish Rana              127
+7           Mumbai Indians    	   Suryakumar Yadav         124

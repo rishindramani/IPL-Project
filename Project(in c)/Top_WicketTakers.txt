@@ -1,9 +1,0 @@
-S.No.      Team Name           Players Name       Wickets
-1      Kolkata Knight Riders   Sunil Narine	   7
-2   	   Mumbai Indians      Mayanak Markande    7  	
-3	   Mumbai Indians      Chris Woakes        7	
-4 	 Delhi Daredevils      Rahul Tewatia	   6
-5	 Delhi Daredevils      Trnt Boult	   6
-			   
-
-           

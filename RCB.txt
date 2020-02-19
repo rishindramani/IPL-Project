@@ -1,0 +1,27 @@
+PLAYER			ROLE
+------			----
+
+V Kohli			Top-order batsman
+MM Ali			Batting allrounder
+CJ Anderson		Batting allrounder
+M Ashwin		Bowler
+YS Chahal		Bowler
+A Choudhary		Bowler
+C de Grandhomme		Allrounder
+Q de Kock 		Wicketkeeper batsman
+PU Deshpande		Allrounder
+AB de Villiers 		Wicketkeeper batsman
+AA Joshi		Bowler
+SN Khan			Middle-order batsman
+K Khejroliya		Bowler
+BB McCullum 		Wicketkeeper batsman
+Mandeep Singh		Allrounder
+Mohammed Siraj		Bowler
+P Negi			Bowler
+PA Patel 		Wicketkeeper batsman
+NA Saini		Bowler
+TG Southee		Bowler
+M Vohra	Opening 	Batsman
+Washington Sundar	Middle-order batsman
+CR Woakes	        Bowler
+UT Yadav	        Bowler

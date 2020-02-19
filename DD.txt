@@ -1,0 +1,28 @@
+PLAYER			ROLE
+------			----
+
+Abhishek Sharma		Bowler
+Avesh Khan		Bowler
+TA Boult		Bowler
+DT Christian		Allrounder
+G Gambhir		Top-order batsman
+SS Ghosh		Bowler
+Gurkeerat Singh		Middle-order batsman
+SS Iyer	Top-order 	Batsman
+S Lamichhane		Bowler
+Manjot Kalra		Opening batsman
+GJ Maxwell		Batting allrounder
+A Mishra		Bowler
+Mohammed Shami		Bowler
+CH Morris		Bowling allrounder
+C Munro			Middle-order batsman
+S Nadeem		Bowler
+NV Ojha 		Wicketkeeper batsman
+RR Pant 		Wicketkeeper batsman
+HV Patel		Bowler
+LE Plunkett		Bowler
+JJ Roy			Middle-order batsman
+V Shankar		Allrounder
+PP Shaw	Opening 	Batsman
+R Tewatia		Bowler
+J Yadav			Bowler

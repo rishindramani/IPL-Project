@@ -1,0 +1,58 @@
+DATE		TIME	TEAMS		VENUE
+-----		----	-----		-----
+7 April		20:00	MI v/s CSR	Wankhede Stadium, Mumbai
+8 April		16:00	KXIP v/s DD	Punjab Cricket Association Stadium, Mohali
+8 April		20:00	KKR v/s RCB	Eden Gardens, Kolkata
+9 April		20:00	SH v/s RR	Rajiv Gandhi International Cricket Stadium, Hyderabad
+10 April	20:00	CSK v/s KKR	M A Chidambaram Stadium, Chennai
+11 April	20:00	RR v/s DD	M Chinnaswamy Stadium, Banglore
+12 April	20:00	SH v/s MI	Rajiv Gandhi International Cricket Stadium, Hyderabad
+13 April	20:00	RCB v/s KXIP	M Chinnaswamy Stadium, Banglore
+14 April	16:00	MI v/s DD 	Wankhede Stadium, Mumbai
+14 April 	20:00	KKR v/s DD	Ededn Gardens. Kolkata
+15 April 	16:00	RCB v/s RR	M Chinnaswamy Stadium, Banglore
+15 April	20:00	KXIP v/s CSR	Punjab Cricket Association Stadium, Mohali4
+16 April	20:00	KKR v/s DD	Edden Gardens, Kolkata
+17 April	20:00	MI v/s RCB	Wankhede Stadium, Mumbai
+18 April	20:00	RR v/s KKR	Sawai Mansingh Stadium, Jaipur
+19 April	20:00	KXIP v/s SH	Punjab Cricket Association Cricket Stadium, Mohali
+20 April	20:00	CSR v/s RR	M A Chidambaram Stadium, Chennai
+21 April	16:00	KKR v/s KXIP	Eden Gardens, Kolkata
+21 April	20:00	RCB v/s DD	M Chinnaswamy Stadium, Banglore
+22 April	16:00	SH v/s CSR	Rajiv Gandhi International Stadium, Hyderabad
+22 April	20:00	RR v/s MI	Sawai Mansingh Stadium, Jaipur
+23 April	20:00	DD v/s KXIP	Feroz Shah Kotla, Delhi
+24 April	20:00	MI v/s SH	Wankhede Stadium, Mumbai
+25 April	20:00	RCB v/s CSK	M Chinnaswamy Stadium, Banglore
+26 April	20:00	SH v/s KXIP	Rajiv Gandhi International Cricket Stadium, Hyderabad
+27 April	20:00	DD v/s KKR	Feroz Shah Kotla, Delhi
+28 April	20:00	CSK v/s MI	M A Chidambaram Stadium, Chennai
+29 April	16:00	RR v/s SH	Sawai Mansingh Stadium, Jaipur
+29 April	20:00	RCB v/s KKR	M Chinnaswamy Stadium, Banglore
+30 April	20:00	CSK v/s DD	M A Chidambaram Stadium, Chennai
+1 May		20:00	RCB v/s MI	M Chinnaswamy Stadium, Banglore
+2 May		20:00	DD v/s RR	Feroz Shah Kotla, Delhi
+3 May		20:00	KKR v/s CSK	Eden Gardens, Kolkata
+4 May		20:00	KXIP v/s MI	Holkar Cricket Stadium, Indore
+5 May		16:00	CSK v/s RCB	M A Chidambaram Stadium, Chennai
+5 May		20:00	SH v/s DD	Rajiv Gandhi International Cricket Stadium, Hyderabad
+6 May		16:00	MI v/s KKR	Wankhede Stadium, Mumbai
+6 May		20:00	KXIP v/s RR	Holkar Cricket Stadium, Indore
+7 May		20:00	SH v/s RCB	Rajiv Gandhi International Cricket Stadium, Hyderabad
+8 May		20:00	RR v/s KXIP	Sawai Mansingh Stadium, Jaipur
+9 May		20:00	KKR v/s MI	Eden Gardens, Kolkata
+10 May		20:00	DD v/s SH	Feroz Shah Kotla, Delhi
+11 May 		20:00	RR v/s CSK	Sawai Mansingh Stadium, Jaipur
+12 May		16:00	KXIP v/s KKR	Holkar Cricket Stadium, Indore
+12 May		20:00	DD v/s RCB	Feroz Shah Kotla, Delhi
+13 May 		16:00	CSK v/s SH	M A Chidambaram Stadium, Chennai
+13 May		20:00	MI v/s RR	Wankhede Stadium, Mumbai
+14 May		20:00	KXIP v/s RCB	Holkar Cricket Stadium, Indore
+15 May		20:00	KKR v/s RR	Eden Gardens, Kolkata
+16 May		20:00	MI v/s KXIP	Wankhede Stadium, Mumbai
+17 May		20:00	RCB v/s SH	M Chinnaswamy Stadium, Banglore
+18 May		20:00	DD v/s CSK	Feroz Shah Kotla, Delhi
+19 May		16:00	RR v/s RCB	Sawai Mansingh Stadium, Jaipur
+19 May		20:00	SH v/s KKR	Rajiv Gandhi International Cricket Stadium, Hyderabad
+20 May		16:00 	DD v/s MI	Feroz Shah Kotla, Delhi
+20 May 		20:00	CSK v/s KXIP	M A Chidambaram Stadium, Chennai

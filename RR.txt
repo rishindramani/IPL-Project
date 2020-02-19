@@ -1,0 +1,25 @@
+PLAYER			ROLE
+------			----
+
+AM Rahane 		Top-order batsman
+Ankit Sharma		Bowler
+Anureet Singh		Bowler
+JC Archer	
+STR Binny		Allrounder
+AV Birla		Opening batsman
+JC Buttler 		Wicketkeeper batsman
+PVD Chameera		Bowler
+P Chopra		Opening batsman
+S Gopal			Allrounder
+K Gowtham		Bowling allrounder
+DS Kulkarni		Bowler
+B Laughlin		Bowler
+MK Lomror		Allrounder
+S Midhun	
+SV Samson	 	Wicketkeeper batsman
+Jatin S Saxena		Top-order batsman
+DJM Short		Opening batsman
+BA Stokes		Allrounder
+RA Tripathi		Top-order batsman
+JD Unadkat		Bowler
+Zahir Khan		Bowler

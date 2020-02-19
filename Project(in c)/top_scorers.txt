@@ -1,8 +1,0 @@
-S.No        Team Name              Player name              Runs
-1 	    Mumbai Indians         Rohit Sharma            800
-2           Mumbai Indians         Suryakumar yadav        750
-3           RCB                    Virat Kohli             700
-4           Sunrisers Hyderabad    Shikhar Dhawan          650
-5           Kings XL Punjab	   KL Rahul                644
-6           Chennai Super Kings    MS Dhoni                640
-7           Kolkata Knight riders  Chris lynn              630
